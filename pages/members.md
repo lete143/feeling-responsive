@@ -1,12 +1,11 @@
 ---
 layout: page
-subheadline: "Header"
-title: "Members"
+title: "Group Members"
 header: 
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/members/"
 ---
-# Group Member
+
 
 ## Executive Committee 2015
 
