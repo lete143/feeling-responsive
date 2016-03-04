@@ -1,10 +1,20 @@
 --- 
-layout: page
-author: Khanh N. Dang
+layout: page-fullwidth
+categories:
+    - news
 title: "Invited Talk: Prof. Pham Ngoc Nam"
+header:
+    image: 2016-01-29_invited/invited_profNam.JPG
+    background-color: "#262930"
+image:
+    thumb:  2016-01-29_invited/invited_profNam.JPG
+    homepage: 2016-01-29_invited/invited_profNam.JPG
+    caption: Image by Vuong
+teaser: "As part of our group's activities, we were pleased to invite Prof. Pham Ngoc Nam from Hanoi University of Science and Technology (HUST) is going to give a talk on his research. Prof. Nam is now a visiting researcher at the UoA."
+
 ---
 
-![pic](/images/2016-01-29_invited/invited_profNam.JPG){:style='width:100%;'}
+
 As part of our group's activities, we were pleased to invite  **Prof. Pham Ngoc Nam** from Hanoi University of Science and Technology (HUST) is going to give a talk on his research. Prof. Nam is now a visiting researcher at the UoA.
 
  
