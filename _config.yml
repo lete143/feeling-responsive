@@ -21,16 +21,16 @@ credits: '<p>(c) IEEE UoA Student Group 2016-</p>'
 
 # Main author of the website
 # See > authors.yml
-author: IEEEUoAStd
+author: IEEEaizustd
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ieee-uoastd.github.io/feeling-responsive'
+url: 'http://localhost:4000'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/ieee-uoastd/feeling-responsive/edit/gh-pages
+#improve_content: https://github.com/phlow/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/ieee-uoastd/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ieee-uoastd.github.io/feeling-responsive/images/'
+urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
@@ -141,9 +141,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+#google_author:             'https://plus.google.com/u/0/118311555303973066167'
+#google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+#bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # alexa_verify_id:         ''
 
 
@@ -190,8 +190,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: uaizu
+    facebook: uaizu
 
 
 #        ____  _
