@@ -1,5 +1,9 @@
 - menu_name: "Services"
 
+- name: "How to edit"
+  url: "/edit/"
+  title: "How to edit"
+
 - name: "Contact"
   url: "/contact/"
   title: "Contact"
