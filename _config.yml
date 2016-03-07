@@ -26,6 +26,7 @@ author: IEEEaizustd
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://ieee-aizustd.github.io/feeling-responsive'
+#url: 'http://127.0.0.1:4000/'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content

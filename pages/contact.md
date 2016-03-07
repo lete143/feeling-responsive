@@ -8,7 +8,5 @@ permalink: "/contact/"
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-
- [1]: http://www.wufoo.com/
+Please email questions, suggestions and requesting to join in our group to ieee-uoastd@u-aizu.ac.jp

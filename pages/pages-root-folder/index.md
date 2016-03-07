@@ -12,18 +12,18 @@ widget1:
   url: '/blog/'
   
   image: widget-1-302x182.jpg
-  text: 'This is your update news.'
+  text: 'You can find more about your news and activities at this page. The news content is updated every month in concurrence with the group activities.'
 widget2:
   title: "Who are we?"
   url: '/about/'
-  text: 'The IEEE Student Group at the University of Aizu was created on Dec. 2015.'
+  text: 'The IEEE Student Group at the University of Aizu was created since December 2015. We are a group of IEEE student members who want to promote the activities and researches in the University of Aizu.'
   #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
   image: widget-group-303x182.jpg
 widget3:
   title: "The University of Aizu"
   url: 'http://www.u-aizu.ac.jp/'
   image: widget-UoA-303x182.jpg
-  text: 'The University of Aizu was established in 1993 as the first university in Japan solely dedicated to computer science and engineering. “Computer science and engineering” is a cutting-edge research area with a broad range of applications and possibilities. It is one of the core areas leading to intellectual production technology. The University of Aizu is seeking individuals who think globally based in Aizu and take on new challenges in the field of computer science and engineering.'
+  text: 'The University of Aizu was established in 1993 as the first university in Japan solely dedicated to computer science and engineering.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,8 +35,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: /contact/
+  text: Joint us and participate our activities! ›
   style: alert
 permalink: /index.html
 #
@@ -46,9 +46,3 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
