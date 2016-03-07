@@ -4,7 +4,7 @@ title: "How to edit"
 teaser: "This is how to edit page."
 permalink: "/edit/"
 header:
-    image_fullwidth: "unsplash_eagle.jpg"
+    image_fullwidth: "banner.png"
 ---
 # How to edit our website
 List of tools:

@@ -4,7 +4,7 @@ title: "About"
 teaser: "The IEEE Student Group at the University of Aizu was created on Dec. 2015. We will do activities under the following mission and goals."
 permalink: "/about/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "banner.png"
 ---
 # Group Information
 
@@ -21,10 +21,3 @@ We will do activities under the following mission and goals.
 + Create active and professional students for the future
 + Organize meaningful activities for all members
 
-
-## Contact
-
-Please email questions, suggestions and requesting to join in our group to <ieee-uoastd@u-aizu.ac.jp>
-
-If you join our group, there are oppotunities.
-(i.e. exchange and share information and knowledges in students, have experiences of organizing and managing activities)
