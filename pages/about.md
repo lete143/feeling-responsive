@@ -4,7 +4,7 @@ title: "About"
 teaser: "The IEEE Student Group at the University of Aizu was created on Dec. 2015. We will do activities under the following mission and goals."
 permalink: "/about/"
 header:
-    image_fullwidth: "banner.png"
+    image_fullwidth: "banner.jpg"
 ---
 # Group Information
 

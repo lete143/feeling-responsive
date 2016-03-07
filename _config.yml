@@ -40,10 +40,13 @@ baseurl: ''
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'https://ieee-aizustd.github.io/feeling-responsive/images/'
+#urlimg: 'http://127.0.0.1:4000/images/'
 
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
+#logo: "old-logo.png"
+#logo: "no-logo.png"
 
 
 #       ____              _             __  _
