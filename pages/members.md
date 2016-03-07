@@ -2,7 +2,7 @@
 layout: page
 title: "Group Members"
 header: 
-   image_fullwidth: "banner.jpg"
+   image_fullwidth: "banner_members.jpg"
 permalink: "/members/"
 ---
 

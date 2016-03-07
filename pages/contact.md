@@ -6,7 +6,7 @@ subheadline: "IEEE Student Group at the University of Aizu contact forms"
 teaser: "Please contact us if you have questions, suggenstions, and requesting."
 permalink: "/contact/"
 header:
-    image_fullwidth: "banner.jpg"
+    image_fullwidth: "banner_contact.jpg"
 ---
 Please email questions, suggestions and requesting to join in our group to <ieee-uoastd@u-aizu.ac.jp>
 
