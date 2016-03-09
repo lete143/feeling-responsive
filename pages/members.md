@@ -9,24 +9,49 @@ permalink: "/members/"
 
 ## Executive Committee 2015
 
-|||
-|:---|:---|
-|**Chair:**|Yuya Kaneda|
-|**Vice Char:**|Vuong V. Mai
-|**Advisor:**|Prof. Toshiaki Miyazaki|
-||Prof. Qiangfu Zhao|
-|**Website Coordinator:**|Le T. Hung|
-||Khanh N Dang|
-|**Treasurer & Securetary:**|Duc V. Nguyen|
-|**Membership Development Officier:**|Phuc V. Trinh|
-|**Event & Publicity Officier:**|Pham V. Thanh|
-
-
-
-# Member Information
-
 ---
 
+
+<table>
+	<tr>
+		<td><strong>Char</strong></td>
+		<td>Yuya Kaneda</td>
+	</tr>
+	<tr>
+		<td><strong>Vice Char</strong></td>
+		<td>Vuong V. Mai</td>
+	</tr>
+	<tr>
+		<td><strong>Advisor</strong></td>
+		<td>
+			Prof. Toshiaki Miyazaki<br />
+			Prof. Qiangfu Zhao
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Website Coordinator</strong></td>
+		<td>
+			Le T. Hung<br />
+			Khanh N. Dang
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Treasurer & Securetary</strong></td>
+		<td>Duc V. Nguyen</td>
+	</tr>
+	<tr>
+		<td><strong>Membership Development Officier</strong></td>
+		<td>Phuc V. Trinh</td>
+	</tr>
+	<tr>
+		<td><strong>Event & Publicity Officier</strong></td>
+		<td>Pham V. Thanh</td>
+	</tr>
+</table>
+
+## Member Information
+
+---
 
 <table>
 	<tr>
@@ -57,4 +82,4 @@ permalink: "/members/"
 		<td><a href="https://scholar.google.co.jp/citations?hl=ja&user=ucahMNEAAAAJ">Yuya Kaneda</a></td>
 		<td>Japanese, English</td>
 	</tr>
-<table>
+</table>
