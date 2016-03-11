@@ -2,7 +2,7 @@
 layout: page-fullwidth
 categories:
     - news
-title: "Group Meeting 2016 Feb. 9"
+title: "Group Meeting 2016 Feb. 9th"
 header:
     image: 2016-02-09_meeting/2016-02-09_meeting_photo.jpg
     background-color: "#262930"
