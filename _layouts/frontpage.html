@@ -9,6 +9,23 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+{% comment %}
+*
+* First check, if there is a call for action-button
+*
+{% endcomment %}
+{% if page.leadingnews.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% assign url = site.url %}
+{% endif %}
+{% if page.leadingnews %}
+    <div class="row t60 b60">
+        <div class="small-13 text-center columns">
+            <a class="button large radius {{ page.leadingnews.style }}" href="{{ url }}{{ site.baseurl }}{{ page.leadingnews.url }}"{% if page.leadingnews.url contains 'http' %} target="_blank" {% endif %}>{{ page.leadingnews.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+{% endif %}
 
 {% comment %}
 *
@@ -31,8 +48,6 @@ format: frontpage
 	{% endif %}
 </div><!-- /.row -->
 
-
-
 {% comment %}
 *
 * First check, if there is a call for action-button
@@ -50,7 +65,6 @@ format: frontpage
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
-
 
 
 {% comment %}
