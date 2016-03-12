@@ -36,7 +36,9 @@
   # - title: "Roadmap"
     # url: "/roadmap/"
 
-
+- title: "Call For Poster"
+  url: "/news/call-for-poster-GS-Info-2016/"
+  side: right
 
 - title: "Search"
   url: "/search/"
