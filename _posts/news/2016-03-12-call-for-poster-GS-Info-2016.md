@@ -2,7 +2,7 @@
 layout: page-fullwidth
 categories:
     - news
-title: "Call for Poster"
+title: "Call for Posters"
 header:
     image: CFP_GS_Info_2016/banner.jpg
     background-color: "rgb(256, 256, 256)"
@@ -24,8 +24,8 @@ Poster submissions may describe recently completed work, highly relevant results
 
 Poster submissions must be in English or Japanese. The submission must include an abstract (maximum one-page), plus a draft of the final poster. Please be aware that the poster draft is mandatory. Please prepare your poster in either portrait or landscape format. All submitted materials must be in PDF format with embedded fonts. Samples of poster abstracts and posters can be found in following links: 
 
-Poster: [pdf](/files/CFP_GS_Info_2016/Poster_sample.pdf), [ppt](/files/CFP_GS_Info_2016/Poster_sample.pptx) <br>
-Abstract: [pdf](/files/CFP_GS_Info_2016/Abstract_Submission_Form.pdf), [doc](/files/CFP_GS_Info_2016/Abstract_Submission_Form.docx)
+Poster: [pdf](https://ieee-aizustd.github.io/feeling-responsive/files/CFP_GS_Info_2016/Poster_sample.pdf), [ppt](https://ieee-aizustd.github.io/feeling-responsive/files/CFP_GS_Info_2016/Poster_sample.pptx) <br>
+Abstract: [pdf](https://ieee-aizustd.github.io/feeling-responsive/files/CFP_GS_Info_2016/Abstract_Submission_Form.pdf), [doc](https://ieee-aizustd.github.io/feeling-responsive/files/CFP_GS_Info_2016/Abstract_Submission_Form.docx)
 
 
 **Important Dates:**

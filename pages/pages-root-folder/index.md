@@ -11,7 +11,7 @@ header:
 # leading news
 leadingnews:
   url: /news/call-for-poster-GS-Info-2016/
-  text: Call for Poster - Graduated School Information 2016›
+  text: Call for Posters - Graduate School Information Fair 2016›
   style: alert
 permalink: /index.html
 
