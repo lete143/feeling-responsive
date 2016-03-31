@@ -29,7 +29,7 @@ Abstract: [pdf](https://ieee-aizustd.github.io/feeling-responsive/files/CFP_GS_I
 
 
 **Important Dates:**
-
+- **<font color="red">REGISTRATION DEADLINE (extended): 15 April 2016</font>**
 - **POSTER SUBMISSION DEADLINE (for presenters): 29 April 2016**
 - **SESSION DATE: 1 June 2016 4th period**
 
