@@ -31,8 +31,7 @@ permalink: "/members/"
 	<tr>
 		<td><strong>Website Coordinator</strong></td>
 		<td>
-			Le T. Hung<br />
-			Khanh N. Dang
+			Le T. Hung
 		</td>
 	</tr>
 	<tr>
