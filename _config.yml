@@ -25,8 +25,12 @@ author: IEEEaizustd
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ieee-aizustd.github.io/feeling-responsive'
+#url: 'https://ieee-aizustd.github.io/feeling-responsive'
 #url: 'http://127.0.0.1:4000'
+# For internal in UoA
+#url: 'http://web-int.u-aizu.ac.jp/conference/ieeeuoas'
+# For external in UoA
+url: 'http://www.u-aizu.ac.jp/conference/ieeeuoas'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
