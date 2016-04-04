@@ -70,6 +70,10 @@ permalink: "/members/"
 		<td>English</td>
 	</tr>
 	<tr>
+		<td><a href="">Kazuya Anazawa</a></td>
+		<td>Japanese, English</td>
+	</tr>
+	<tr>
 		<td><a href="https://sites.google.com/site/vietphuctrinh/">Phuc Viet Trinh</a></td>
 		<td>Vietnamese (native), English</td>
 	</tr>
@@ -81,4 +85,5 @@ permalink: "/members/"
 		<td><a href="https://scholar.google.co.jp/citations?hl=ja&user=ucahMNEAAAAJ">Yuya Kaneda</a></td>
 		<td>Japanese, English</td>
 	</tr>
-</table>
+<table>
+
